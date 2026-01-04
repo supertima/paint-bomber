@@ -1,4 +1,4 @@
-# paint-bomber
+# Paint bomber
 This device is designed to release paint onto the canvas in one large, uniform drop at a single moment. The source files were developed in Fusion 360. The device consists of a vertical tube, at the bottom of which there is a movable diaphragm. When the button is pressed, the diaphragm opens and the paint loaded into the tube falls down as one large drop.
 
 To assemble the "dropper/bomber" you will need:
