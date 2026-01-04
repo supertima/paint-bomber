@@ -9,6 +9,10 @@ To assemble the "dropper/bomber" you will need:
 - 2 push buttons  
 - A servo of MG90 or SG90 type  
 
+Download:
+— [Fusion 360 files](paint_bomber v5.f3d)
+— [STL (all-in-one file)](paint_bomber v5.stl)
+
 In my version the device is powered from a power bank through the Arduino USB port, but you can also make it with a standalone battery power supply.  
 
 The firmware depends on the specific features of each individual build, but the general logic is the same: when the button is pressed, the Arduino slightly rotates the servo shaft, which is connected to the moving disk that controls the diaphragm petals.
